@@ -2,8 +2,8 @@
  * Rafael Lozano Rolon
  * soporte@taloselectronics.com
  */
-#define PPR 200 //Pulsos por revolucion
-#define STEP_DELAY 200
+#define PPR 400 //Pulsos por revolucion
+#define STEP_DELAY 800
 const byte stepPin=2;
 const byte directionPin=3;
 
